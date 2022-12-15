@@ -1,0 +1,31 @@
+Assalamu alaikum. 
+Today i have completed Data Structure and algorithm task - 2;
+
+I have learned several things form todays class
+For Example :
+1. I learned What is Big O and I have practice Big O best case(O maga), average case(Theta) and worse case(o);
+2. I have practices Big O with some confusing case
+3. I have learned Efficiency with chetSheet: like O(1) - O(log n) - O(n) - O(n log n) - O(n^2)
+4. I have practice Space complexity with practical example
+
+
+
+Note : Every array method like Filter,map,reduce,slice,splice,forEach Big O(n);
+5. Efficiency of array in different operation
+6. Efficiency of object in different operation
+7. When we should use object or Hashmap and when we should use array in our project
+
+
+Not only i learned above things but also i learned Problem solving approach with practical problems.
+
+Now i would like to talk something about problem solving approach. 
+
+When we will solve any problem at first we have to understand the problem. After that we need to understand what is the input and what is the output in existing problem. If the problme familier with us those time we can start with naive/brute force approch. Brute force approach means possible solution that you can apply at first.
+
+Today i have learned and practice above all this things. 
+Here is my GitHub Link: 
+
+
+
+
+
